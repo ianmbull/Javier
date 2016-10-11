@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bmg_djw_mx">
+    <title>Making Pancakes in the Morning</title>
+    <shortdesc>First thing you
+            should do when you wake up in the morning is get a good meal. There's several different
+            things easy meals that you can fix waiting in the kitchen. Fix some pancakes for
+            yourself.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Grab the mic in
+                        the cabinet to the far left on the side with the sink.</cmd>
+            </step>
+            <step>
+                <cmd>Grab a bowl from the cabinet on the opposite side from the cabinet</cmd>
+            </step>
+            <step>
+                <cmd>Gather measuring devices from the drawer</cmd>
+            </step>
+            <step>
+                <cmd>Follow the instructions stated on the box</cmd>
+            </step>
+            <step>
+                <cmd>Grab a cooking pan and set it on the stove.</cmd>
+            </step>
+            <step>
+                <cmd>Cook your pancakes and enjoy your early morning meal.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

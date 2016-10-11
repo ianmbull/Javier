@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Javier Persona Activity</title>
+ <topicref href="Introduction%20Extra%20New.dita"/>
+ <topicref href="Persona%20Activity%201.dita"/>
+ <topicref href="Persona%20Activity%202.dita"/>
+ <topicref href="Persona%20Activity%203.dita"/>
+</map>

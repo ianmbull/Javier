@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_imt_fjw_mx">
+    <title>Getting Books from the Bookstore</title>
+    <shortdesc>Now that you’re a new student at the University you’ll want to gather your books for
+        your classes that you are enrolled in.</shortdesc>
+    <taskbody>
+        <context>This task will explain <p/></context>
+        <steps>
+            <step>
+                <cmd>Wait at the bus stop across the street to catch the bus that will lead you to
+                    the bookstore.</cmd>
+            </step>
+            <step>
+                <cmd>Get off the bus at Newman library.</cmd>
+            </step>
+            <step>
+                <cmd>The bookstore building is on the other side of the library.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the bookstore and the employees there can help you find the books you
+                    need for the classes you have. In the process you might make a friend or
+                    two.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

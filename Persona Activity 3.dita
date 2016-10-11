@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_x2z_gjw_mx">
+    <title>Find out Where you Classes are Located</title>
+    <shortdesc>This task will give you instructions that will help you understand and figure out
+        where your classroom buildings are located and where you need to go to get to class on time. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go onto Hokiespa and find your current semester schedule</cmd>
+            </step>
+            <step>
+                <cmd>Print out your schedule so that you have a copy of it while you are away from
+                    your computer.</cmd>
+            </step>
+            <step>
+                <cmd>Go to the vt.edu website and search up the abbrivations for each classroom
+                    building so that you can figure out the whole name to the building.</cmd>
+            </step>
+            <step>
+                <cmd>Use Google maps to search up the buildings to find where they are located.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Use the Google maps app on your phone each you still need a guide when
+                    attending class.</cmd>
+            </step>
+            <step>
+                <cmd>Attend each of your classes on time without getting lost.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
